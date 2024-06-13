@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**anicolaou718/anicolaou718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am Anna and I am currently working as a data specialist at a sports publication company.
 
 I have an interest in analytics and machine learning problems which is why the projects on my profile are all ML project.
