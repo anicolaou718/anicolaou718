@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **anicolaou718/anicolaou718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am Anna and I am currently working as a data specialist at a sports publication company.
@@ -23,4 +23,4 @@ So, I have a couple dashboards published.
 
 ⚡ Public Tableau:
 https://public.tableau.com/app/profile/anna.nicolaou/vizzes
--->
+
