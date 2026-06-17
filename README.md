@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Data Scientist with an M.S. in Computer Science (Data Science) and 3 years of experience in machine learning, statistical modeling, and data analysis. My research focuses on applying ML to biomedical data, such as gene sequencing, time series, and imaging data, with three manuscripts and code currently under review in peer-reviewed journals. The code involves HMM pipelines with PCA and COX Survival Analysis on time series and gene sequencing data.
+Data Scientist with an M.S. in Computer Science (Data Science) and 3 years of experience in machine learning, statistical modeling, and data analysis. My research focuses on applying ML to various data modalities, such as gene sequencing, time series, and imaging data, with three manuscripts and code currently under review in peer-reviewed journals. The code under review involves HMM pipelines with PCA and COX Survival Analysis on time series and gene sequencing data.
 
 The projects in this repository span classification, clustering, dimensionality reduction, and data pipeline work, primarily written in Python and SQL.
 
